@@ -1,4 +1,7 @@
-Este sistema te permite guardar una imagen directamente en la base de datos, eso quiere decir que si migras la base de datos tambien las fotos se van
-Te presenta un menu de 3 platillas de curriculum vitae que te permite poder visualizar estas mismas y cambiar el color o colores de la plantilla o letras en tiempo real
-Puedes elegir una platilla y esta misma podra guardarse como un archivo pdf
-Puedes editar tus datos cuando gustes
+Este sistema te permite guardar una imagen directamente en la base de datos.  
+Eso quiere decir que si migras la base de datos, también las fotos se migran.
+
+Te presenta un menú de 3 plantillas de currículum vitae que te permiten visualizarlas y cambiar el color o colores de la plantilla o letras en tiempo real.
+
+Puedes elegir una plantilla y esta misma podrá guardarse como un archivo PDF.  
+Puedes editar tus datos cuando gustes.    
